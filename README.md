@@ -1,6 +1,7 @@
 # SpriteClub Predictor
 
 A machine learning prediction system for [SpriteClub](https://spriteclub.tv) MUGEN betting. Uses a 4-model ensemble trained on 1.5 million historical matches to predict who wins before you place your bet.
+Please download the model pkl file from the releases and place it into the main folder to make the project work as intended
 
 ---
 
